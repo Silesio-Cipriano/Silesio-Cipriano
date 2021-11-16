@@ -6,9 +6,9 @@ Sou  **Moçambicano**, e sou apaixonado pelas novas tecnologias🚀.
 
 ### :diamond_shape_with_a_dot_inside: Sobre
 - **Aprendendo:**  Desenvolvimento Web:zap: | Open-Source :fire:	
-- **Hobbies:** Artigos,Livros:book:, Animes e música :headphones:
+- **Hobbies:** Artigos,Livros:book:, Estudar e música :headphones:
 - **Fato:** Codar:heart: 
--  **Organização:** none;
+-  **Organização:** Super✨;
 <br/>
 <br/>
 <br/><br/>
