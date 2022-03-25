@@ -5,7 +5,7 @@ Sou  **Moçambicano**, e sou apaixonado pelas novas tecnologias🚀.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### :diamond_shape_with_a_dot_inside: Sobre
-- **Aprendendo:**  Desenvolvimento Web:zap: | Open-Source :fire:	
+- **Aprendendo:**  React Native:zap: | Open-Source :fire:	
 - **Hobbies:** Artigos,Livros:book:, Estudar e música :headphones:
 - **Fato:** Codar:heart: 
 -  **Organização:** Super✨;
