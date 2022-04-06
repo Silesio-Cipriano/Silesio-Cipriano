@@ -16,7 +16,6 @@ Sou  **Moçambicano**, e sou apaixonado pelas novas tecnologias🚀.
 <hr/>
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 **Contacte-me:**
 <p align="left">
 <a href="https://www.instagram.com/silesio_cipriano/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
