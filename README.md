@@ -1,11 +1,14 @@
 
-### Hey, I'm Silésio Cipriano
-Sou  **Moçambicano**, e sou apaixonado pelas novas tecnologias🚀.
+### Hey, Sou Silésio Cipriano
+**Codar** 🚀.
 <hr/>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+<img align='right' src="https://user-images.githubusercontent.com/68440141/174432081-ffd75a28-9e82-44ee-809d-e51e53074d9f.gif" width="480">
+
 
 ### :diamond_shape_with_a_dot_inside: Sobre
-- **Aprendendo:**  React Native:zap: | Open-Source :fire:	
+- **Focado:** UI 🫐  , React Native:zap: &  React JS ✳️: | Open-Source :fire:	
 - **Hobbies:** Artigos,Livros:book:, Estudar e música :headphones:
 - **Fato:** Codar:heart: 
 -  **Organização:** Super✨;
