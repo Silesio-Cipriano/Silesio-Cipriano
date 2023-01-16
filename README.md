@@ -8,7 +8,7 @@
 
 
 ### :diamond_shape_with_a_dot_inside: Sobre
-- **Focado:** UI 🫐  , React Native:zap: &  React JS ✳️: | Open-Source :fire:	
+- **Focado:** UI 🫐  ,NodeJS 🤺,  React Native:zap: &  React JS ✳️: | Open-Source :fire:	
 - **Hobbies:** Artigos,Livros:book:, Estudar e música :headphones:
 - **Fato:** Codar:heart: 
 -  **Organização:** Super✨;
