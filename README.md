@@ -1,6 +1,6 @@
 
 ### Hey 👋
-**O belo atrai, vamos codar...** 🚀🚀.
+**O belo atrai, vamos codar...** 🚀.
 <hr/>
 
 
