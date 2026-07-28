@@ -12,6 +12,8 @@
 - **Hobbies:** Artigos,Livros:book:, Estudar e música :headphones:
 - **Fato:** Codar:heart: 
 -  **Organização:** Super✨;
+
+-  Nota: Engenheiro informatico - formado pela universidade Lurio.
 <br/>
 <br/>
 <br/><br/>
